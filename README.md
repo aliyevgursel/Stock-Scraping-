@@ -2,12 +2,14 @@
 
 **Project Title**
 
-“Scraping Data for 52-Week Low Stocks from www.tradingview.com”
+“Scraping Data for 52-Week Low Stocks from www.tradingview.com
+
 
 
 **Project Overview**
 
 This code scrapes information for stocks that hit their 52-week low price from www.tradingview.com, and then subsets those that have low price-to-earnings (PE) ratio. This is a tool for searching undervalued stocks for investment. It can help to narrow down the list of stocks that are potentially undervalued. 
+
 
 
 **Data Understanding and Limitations**
